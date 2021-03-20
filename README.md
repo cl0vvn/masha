@@ -6,4 +6,4 @@ this is the simple voice assistent on russian languaguage
 
 Википедия по проэкту: https://github.com/cl0vvn/masha/wiki
 
-Установка:
+Установка: https://github.com/cl0vvn/masha/wiki/Установка
